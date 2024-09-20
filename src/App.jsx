@@ -114,8 +114,7 @@ const App = () => {
                     name="rate"
                     className="form-input p-2 w-full rounded-l-md font-semibold outline-none box-border"
                     ref={annualRate}
-                    value={5.25}
-                    readOnly
+                    
                   />
                 </div>
               </div>
